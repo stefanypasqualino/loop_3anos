@@ -4,6 +4,7 @@ h1 {text-align: center;}
 h1 {border:solid 3px white ;}
 #mor {margin-left: 100%%;}
 #mor {border:solid 3px white ;}
+body {background-color: rgb(255, 160, 191);}
 #texto-animado {
     font-family: 'Arial', sans-serif;
     font-size: 48px;
